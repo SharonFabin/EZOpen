@@ -54,5 +54,5 @@ class FaceDetector:
         return frame
 
 
-fd = FaceDetector(0.5)
-fd.detect(cv2.imread("resources/image1.jpg"))
+# fd = FaceDetector(0.5)
+# fd.detect(cv2.imread("resources/image1.jpg"))
